@@ -1,0 +1,212 @@
+Electrotecnia                                                                     Trabajo Práctico N.o 5
+
+
+                                       Trabajo Práctico N.o 5
+
+                                            Ley de Ohm
+
+
+ Apellido y nombre:                                   Curso:
+
+ Materia: Electrotecnia                               Fecha:
+
+
+
+Código de colores para resistores de cuatro bandas
+En un resistor de cuatro bandas, las dos primeras bandas representan las cifras significativas, la tercera
+banda corresponde al multiplicador y la cuarta banda indica la tolerancia.
+
+                             Primera         Segunda
+                Color                                        Multiplicador        Tolerancia
+                              banda           banda
+                Negro            0               0                100                  –
+             Marrón              1               1                101                ±1 %
+                Rojo             2               2                102                ±2 %
+             Naranja             3               3                103                  –
+            Amarillo             4               4                104                  –
+                Verde            5               5                105               ±0,5 %
+                Azul             6               6                106              ±0,25 %
+             Violeta             7               7                107               ±0,1 %
+                 Gris            8               8                108              ±0,05 %
+                Blanco           9               9                109                  –
+                 Oro             –               –                10−1               ±5 %
+                Plata            –               –                10−2              ±10 %
+Electrotecnia                                                                   Trabajo Práctico N.o 5
+
+
+Interpretación de circuitos
+1. Observe los tres circuitos representados en la figura y determine:
+
+   a) La corriente que circula por cada circuito.
+
+  b) ¿Cuál de los circuitos posee la mayor corriente?
+
+   c) ¿Cuál de los circuitos posee la menor corriente?
+
+
+
+        50 V          3,3 kΩ                75 V         3,9 kΩ                 100 V         4,7 kΩ
+
+
+         Circuito (a)                        Circuito (b)                          Circuito (c)
+
+
+2. Observe los circuitos representados en la figura. En cada uno se indican el valor de la tensión
+aplicada y la corriente que circula.
+Determine el valor de la resistencia conectada en cada circuito.
+
+                     20 mA                               5 mA                                250 𝜇A
+
+         12 V           𝑅                    24 V           𝑅                   100 V         𝑅
+
+
+         Circuito (a)                        Circuito (b)                          Circuito (c)
+
+
+3. Observe los circuitos representados en la figura. En cada uno se indican el valor de la resistencia y
+la corriente que circula.
+Determine el valor de la tensión de alimentación necesaria en cada circuito.
+
+                     5 mA                                20 mA                               40 𝜇A
+
+         𝑉              2 kΩ                𝑉             470 Ω                𝑉              1,5 MΩ
+
+
+         Circuito (a)                        Circuito (b)                          Circuito (c)
+Electrotecnia                                                                  Trabajo Práctico N.o 5
+
+
+Conexión de instrumentos de medición
+4. Para cada uno de los siguientes casos, dibuje el circuito eléctrico correspondiente e incorpore los
+instrumentos de medición necesarios.
+
+ a) Fuente de 7 V y resistencia b) Fuente de 12 V y resistencia c) Fuente de 24 V y resistencia
+ de 2 kΩ.                       de 470 Ω.                       de 1,2 kΩ.
+
+En cada circuito deberá:
+
+      Conectar un amperímetro para medir la corriente que circula por la resistencia.
+
+      Conectar un voltímetro para medir la tensión entre los extremos de la resistencia.
+
+      Indicar si cada instrumento se encuentra conectado en serie o en paralelo.
+
+      Calcular el valor que debería indicar cada instrumento.
+Electrotecnia                                                                   Trabajo Práctico N.o 5
+
+
+Cálculo de la corriente
+Utilice la ecuación correspondiente de la Ley de Ohm:
+
+                                                      𝑉
+                                                 𝐼=
+                                                      𝑅
+5. Determine la corriente para cada caso.
+
+ a) 𝑉 = 5 V; 𝑅 = 10 Ω               b) 𝑉 = 15 V; 𝑅 = 10 Ω              c) 𝑉 = 50 V; 𝑅 = 100 Ω
+
+ d) 𝑉 = 30 V; 𝑅 = 15 kΩ             e) 𝑉 = 250 V; 𝑅 = 5,6 MΩ
+
+
+6. Determine la corriente para cada caso.
+
+ a) 𝑉 = 9 V; 𝑅 = 2,7 kΩ             b) 𝑉 = 5,5 V; 𝑅 = 10 kΩ            c) 𝑉 = 40 V; 𝑅 = 68 kΩ
+
+ d) 𝑉 = 1 kV; 𝑅 = 2,2 kΩ            e) 𝑉 = 66 kV; 𝑅 = 10 MΩ
+
+
+7. Se conecta un resistor de 10 Ω a través de una batería de 12 V. Determine la corriente que circula
+por el resistor.
+
+8. Cierto resistor tiene el siguiente código de colores:
+
+                                     naranja, naranja, rojo, oro
+
+Determine la corriente máxima y la corriente mínima esperadas cuando el resistor se conecta a una
+fuente de 12 V.
+
+9. Se conecta un resistor de cuatro bandas a través de una fuente de 25 V. Determine la corriente que
+circula si el código de colores del resistor es:
+
+                                   amarillo, violeta, naranja, plata
+
+
+10. Aplicación en situaciones prácticas
+
+   a) En un circuito simple se conecta una fuente de alimentación de 24 V a un resistor de 1,2 kΩ.
+      Determine la corriente que debería registrar un amperímetro conectado correctamente en el
+      circuito.
+
+  b) Un resistor de 4,7 kΩ se conecta a una fuente de alimentación de 12 V. Calcule la corriente que
+     circula por el circuito y exprese el resultado en miliamperios.
+
+   c) En un circuito electrónico se aplica una tensión de 5 V sobre un resistor de 220 kΩ. Determine
+      la corriente que circula y exprese el resultado en microamperios.
+Electrotecnia                                                                   Trabajo Práctico N.o 5
+
+
+Cálculo del voltaje
+Utilice la ecuación correspondiente de la Ley de Ohm:
+
+                                               𝑉 =𝐼·𝑅
+
+11. Calcule el voltaje para cada valor de corriente y resistencia.
+
+ a) 𝐼 = 2 A; 𝑅 = 18 Ω               b) 𝐼 = 5 A; 𝑅 = 56 Ω              c) 𝐼 = 2,5 A; 𝑅 = 680 Ω
+
+ d) 𝐼 = 0,6 A; 𝑅 = 47 Ω             e) 𝐼 = 0,1 A; 𝑅 = 560 Ω
+
+
+12. Calcule el voltaje para cada valor de corriente y resistencia.
+
+ a) 𝐼 = 1 mA; 𝑅 = 10 Ω              b) 𝐼 = 50 mA; 𝑅 = 33 Ω            c) 𝐼 = 3 A; 𝑅 = 56 kΩ
+
+ d) 𝐼 = 16 mA; 𝑅 = 2,2 kΩ           e) 𝐼 = 250 𝜇A; 𝑅 = 1 kΩ           f) 𝐼 = 500 mA; 𝑅 = 1,5 MΩ
+
+ g) 𝐼 = 850 𝜇A; 𝑅 = 10 MΩ           h) 𝐼 = 75 𝜇A; 𝑅 = 47 Ω
+
+
+13. Aplicación en situaciones prácticas
+
+   a) En un circuito simple se conecta un amperímetro que registra una corriente de 2 mA. Si la
+      resistencia conectada posee un valor de 200 Ω, determine la tensión aplicada por la fuente.
+
+  b) Durante la medición de un circuito electrónico, un amperímetro indica una corriente de 25 mA.
+     Si el resistor conectado tiene un valor de 470 Ω, determine la tensión aplicada entre sus extremos.
+
+   c) Por una resistencia de 4,7 kΩ circula una corriente de 500 𝜇A. Determine la tensión que debería
+      registrar un voltímetro conectado en paralelo con la resistencia.
+Electrotecnia                                                                      Trabajo Práctico N.o 5
+
+
+Cálculo de la resistencia
+Utilice la ecuación correspondiente de la Ley de Ohm:
+
+                                                     𝑉
+                                                𝑅=
+                                                     𝐼
+14. Encuentre la resistencia para cada valor de tensión y corriente.
+
+ a) 𝑉 = 10 V; 𝐼 = 2 A              b) 𝑉 = 90 V; 𝐼 = 45 A               c) 𝑉 = 50 V; 𝐼 = 5 A
+
+ d) 𝑉 = 5,5 V; 𝐼 = 10 A            e) 𝑉 = 150 V; 𝐼 = 0,5 A
+
+
+15. Calcule la resistencia para cada conjunto de valores de tensión y corriente.
+
+ a) 𝑉 = 10 kV; 𝐼 = 5 A             b) 𝑉 = 7 V; 𝐼 = 2 mA                c) 𝑉 = 500 V; 𝐼 = 250 mA
+
+ d) 𝑉 = 50 V; 𝐼 = 500 𝜇A           e) 𝑉 = 1 kV; 𝐼 = 1 mA
+
+
+16. Aplicación en situaciones prácticas
+
+   a) En un circuito simple se conecta un voltímetro que registra una tensión de 12 V y un amperímetro
+      que indica una corriente de 30 mA. Determine el valor de la resistencia conectada.
+
+  b) Una fuente aplica una tensión de 24 V sobre un circuito. Si el amperímetro registra una corriente
+     de 2 mA, determine el valor de la resistencia del circuito y exprese el resultado en kiloohmios.
+
+   c) En un circuito electrónico se mide una tensión de 5 V entre los extremos de un resistor y una
+      corriente de 250 𝜇A. Determine el valor de la resistencia y exprese el resultado en kiloohmios.
+
